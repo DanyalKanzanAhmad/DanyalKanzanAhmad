@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Working in study<br>I'm <br>
+I'm Working in study in PIAIC From UMT<br>I'm working on Python<br>
 
 
 # 💻 Tech Stack:
